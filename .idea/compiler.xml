@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shardingsphere-cluster-mode-repository-api" />
+        <module name="shardingsphere-transaction-base-seata-at" />
+        <module name="shardingsphere-db-discovery-distsql-handler" />
+        <module name="shardingsphere-proxy-frontend-opengauss" />
+        <module name="shardingsphere-sql-parser-statement" />
+        <module name="shardingsphere-standalone-mode-repository-file" />
+        <module name="shardingsphere-sql-parser-postgresql" />
+        <module name="shardingsphere-data-pipeline-spi" />
+        <module name="shardingsphere-encrypt-distsql-parser" />
+        <module name="shardingsphere-infra-common" />
+        <module name="shardingsphere-integration-scaling-test-mysql" />
+        <module name="shardingsphere-infra-executor" />
+        <module name="shardingsphere-distsql-statement" />
+        <module name="shardingsphere-readwrite-splitting-spring-namespace" />
+        <module name="shardingsphere-readwrite-splitting-distsql-handler" />
+        <module name="shardingsphere-shadow-api" />
+        <module name="shardingsphere-agent-tracing-jaeger" />
+        <module name="shardingsphere-data-pipeline-opengauss" />
+        <module name="shardingsphere-transaction-xa-atomikos" />
+        <module name="shardingsphere-proxy-bootstrap" />
+        <module name="shardingsphere-integration-agent-test-metrics" />
+        <module name="shardingsphere-shadow-core" />
+        <module name="shardingsphere-parser-test" />
+        <module name="shardingsphere-jdbc-core" />
+        <module name="shardingsphere-integration-agent-test-zipkin" />
+        <module name="shardingsphere-sql-parser-engine" />
+        <module name="shardingsphere-sql-parser-mysql" />
+        <module name="shardingsphere-encrypt-spring-boot-starter" />
+        <module name="shardingsphere-db-discovery-core" />
+        <module name="shardingsphere-parser-core" />
+        <module name="shardingsphere-pipeline-test" />
+        <module name="shardingsphere-integration-agent-test-common" />
+        <module name="shardingsphere-shadow-spring-namespace" />
+        <module name="shardingsphere-db-discovery-mysql" />
+        <module name="shardingsphere-jdbc-core-spring-boot-starter" />
+        <module name="shardingsphere-infra-context" />
+        <module name="shardingsphere-sql-parser-oracle" />
+        <module name="shardingsphere-parser-api" />
+        <module name="shardingsphere-integration-test-fixture" />
+        <module name="shardingsphere-db-protocol-opengauss" />
+        <module name="shardingsphere-standalone-mode-core" />
+        <module name="shardingsphere-parser-spring-boot-starter" />
+        <module name="shardingsphere-standalone-mode-repository-h2" />
+        <module name="shardingsphere-infra-binder" />
+        <module name="shardingsphere-infra-merge" />
+        <module name="shardingsphere-traffic-api" />
+        <module name="shardingsphere-authority-core" />
+        <module name="shardingsphere-agent-api" />
+        <module name="shardingsphere-sharding-core" />
+        <module name="shardingsphere-db-protocol-core" />
+        <module name="shardingsphere-encrypt-distsql-statement" />
+        <module name="shardingsphere-spi" />
+        <module name="shardingsphere-infra-datetime-spi" />
+        <module name="shardingsphere-db-discovery-distsql-statement" />
+        <module name="shardingsphere-readwrite-splitting-api" />
+        <module name="shardingsphere-agent-logging-base" />
+        <module name="shardingsphere-db-discovery-spring-boot-starter" />
+        <module name="shardingsphere-shadow-distsql-parser" />
+        <module name="shardingsphere-agent-metrics-api" />
+        <module name="shardingsphere-infra-rewrite" />
+        <module name="shardingsphere-readwrite-splitting-distsql-parser" />
+        <module name="shardingsphere-db-discovery-spring-namespace" />
+        <module name="shardingsphere-agent-core" />
+        <module name="shardingsphere-parser-spring-namespace" />
+        <module name="shardingsphere-db-protocol-mysql" />
+        <module name="shardingsphere-encrypt-distsql-handler" />
+        <module name="shardingsphere-distsql-parser" />
+        <module name="shardingsphere-integration-agent-test-jaeger" />
+        <module name="shardingsphere-integration-test-suite" />
+        <module name="shardingsphere-cluster-mode-repository-zookeeper-curator" />
+        <module name="shardingsphere-sharding-api" />
+        <module name="shardingsphere-db-protocol-postgresql" />
+        <module name="shardingsphere-transaction-core" />
+        <module name="shardingsphere-transaction-xa-bitronix" />
+        <module name="shardingsphere-jdbc-spring-boot-starter-infra" />
+        <module name="shardingsphere-infra-federation-executor" />
+        <module name="shardingsphere-infra-route" />
+        <module name="shardingsphere-proxy-backend" />
+        <module name="shardingsphere-sharding-spring-namespace" />
+        <module name="shardingsphere-readwrite-splitting-core" />
+        <module name="shardingsphere-sql-parser-spi" />
+        <module name="shardingsphere-proxy-frontend-mysql" />
+        <module name="shardingsphere-integration-agent-test-opentelemetry" />
+        <module name="shardingsphere-sql-parser-sqlserver" />
+        <module name="shardingsphere-agent-tracing-opentracing" />
+        <module name="shardingsphere-single-table-core" />
+        <module name="shardingsphere-transaction-api" />
+        <module name="shardingsphere-agent-tracing-test" />
+        <module name="shardingsphere-transaction-xa-narayana" />
+        <module name="shardingsphere-proxy-frontend-reactive-mysql" />
+        <module name="shardingsphere-db-discovery-api" />
+        <module name="shardingsphere-encrypt-core" />
+        <module name="shardingsphere-encrypt-spring-namespace" />
+        <module name="shardingsphere-jdbc-core-spring-namespace" />
+        <module name="shardingsphere-data-pipeline-mysql" />
+        <module name="shardingsphere-infra-federation-optimizer" />
+        <module name="shardingsphere-traffic-core" />
+        <module name="shardingsphere-cluster-mode-core" />
+        <module name="shardingsphere-proxy-frontend-reactive-core" />
+        <module name="shardingsphere-db-discovery-distsql-parser" />
+        <module name="shardingsphere-standalone-mode-repository-api" />
+        <module name="shardingsphere-infra-parser" />
+        <module name="shardingsphere-test-common" />
+        <module name="shardingsphere-agent-bootstrap" />
+        <module name="shardingsphere-proxy-frontend-core" />
+        <module name="shardingsphere-data-pipeline-core" />
+        <module name="shardingsphere-sharding-spring-boot-starter" />
+        <module name="shardingsphere-encrypt-api" />
+        <module name="shardingsphere-schedule-core" />
+        <module name="shardingsphere-mode-core" />
+        <module name="shardingsphere-agent-metrics-prometheus" />
+        <module name="shardingsphere-jdbc-transaction-spring" />
+        <module name="shardingsphere-shadow-distsql-statement" />
+        <module name="shardingsphere-single-table-api" />
+        <module name="shardingsphere-integration-driver-test" />
+        <module name="shardingsphere-sharding-distsql-statement" />
+        <module name="shardingsphere-shadow-spring-boot-starter" />
+        <module name="shardingsphere-proxy-frontend-spi" />
+        <module name="shardingsphere-agent-tracing-opentelemetry" />
+        <module name="shardingsphere-proxy-frontend-reactive-spi" />
+        <module name="shardingsphere-shadow-distsql-handler" />
+        <module name="shardingsphere-data-pipeline-postgresql" />
+        <module name="shardingsphere-sharding-distsql-handler" />
+        <module name="shardingsphere-db-discovery-opengauss" />
+        <module name="shardingsphere-sql-parser-sql92" />
+        <module name="shardingsphere-transaction-xa-core" />
+        <module name="shardingsphere-authority-api" />
+        <module name="shardingsphere-jdbc-spring-namespace-infra" />
+        <module name="shardingsphere-agent-tracing-zipkin" />
+        <module name="shardingsphere-memory-mode-core" />
+        <module name="shardingsphere-readwrite-splitting-spring-boot-starter" />
+        <module name="shardingsphere-sql-parser-opengauss" />
+        <module name="shardingsphere-sharding-distsql-parser" />
+        <module name="shardingsphere-system-datetime" />
+        <module name="shardingsphere-optimize-test" />
+        <module name="shardingsphere-proxy-frontend-postgresql" />
+        <module name="shardingsphere-cluster-mode-repository-etcd" />
+        <module name="shardingsphere-readwrite-splitting-distsql-statement" />
+        <module name="shardingsphere-transaction-xa-spi" />
+        <module name="shardingsphere-rewrite-test" />
+        <module name="shardingsphere-database-datetime" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="shardingsphere" target="1.8" />
+      <module name="shardingsphere-agent" target="1.8" />
+      <module name="shardingsphere-agent-api" target="1.8" />
+      <module name="shardingsphere-agent-bootstrap" target="1.8" />
+      <module name="shardingsphere-agent-core" target="1.8" />
+      <module name="shardingsphere-agent-distribution" target="1.8" />
+      <module name="shardingsphere-agent-logging-base" target="1.8" />
+      <module name="shardingsphere-agent-metrics-api" target="1.8" />
+      <module name="shardingsphere-agent-metrics-prometheus" target="1.8" />
+      <module name="shardingsphere-agent-plugin-logging" target="1.8" />
+      <module name="shardingsphere-agent-plugin-metrics" target="1.8" />
+      <module name="shardingsphere-agent-plugin-tracing" target="1.8" />
+      <module name="shardingsphere-agent-plugins" target="1.8" />
+      <module name="shardingsphere-agent-tracing-jaeger" target="1.8" />
+      <module name="shardingsphere-agent-tracing-opentelemetry" target="1.8" />
+      <module name="shardingsphere-agent-tracing-opentracing" target="1.8" />
+      <module name="shardingsphere-agent-tracing-test" target="1.8" />
+      <module name="shardingsphere-agent-tracing-zipkin" target="1.8" />
+      <module name="shardingsphere-authority" target="1.8" />
+      <module name="shardingsphere-authority-api" target="1.8" />
+      <module name="shardingsphere-authority-core" target="1.8" />
+      <module name="shardingsphere-cluster-mode" target="1.8" />
+      <module name="shardingsphere-cluster-mode-core" target="1.8" />
+      <module name="shardingsphere-cluster-mode-repository" target="1.8" />
+      <module name="shardingsphere-cluster-mode-repository-api" target="1.8" />
+      <module name="shardingsphere-cluster-mode-repository-etcd" target="1.8" />
+      <module name="shardingsphere-cluster-mode-repository-provider" target="1.8" />
+      <module name="shardingsphere-cluster-mode-repository-zookeeper-curator" target="1.8" />
+      <module name="shardingsphere-data-pipeline" target="1.8" />
+      <module name="shardingsphere-data-pipeline-core" target="1.8" />
+      <module name="shardingsphere-data-pipeline-dialect" target="1.8" />
+      <module name="shardingsphere-data-pipeline-mysql" target="1.8" />
+      <module name="shardingsphere-data-pipeline-opengauss" target="1.8" />
+      <module name="shardingsphere-data-pipeline-postgresql" target="1.8" />
+      <module name="shardingsphere-data-pipeline-spi" target="1.8" />
+      <module name="shardingsphere-database-datetime" target="1.8" />
+      <module name="shardingsphere-db-discovery" target="1.8" />
+      <module name="shardingsphere-db-discovery-api" target="1.8" />
+      <module name="shardingsphere-db-discovery-core" target="1.8" />
+      <module name="shardingsphere-db-discovery-distsql" target="1.8" />
+      <module name="shardingsphere-db-discovery-distsql-handler" target="1.8" />
+      <module name="shardingsphere-db-discovery-distsql-parser" target="1.8" />
+      <module name="shardingsphere-db-discovery-distsql-statement" target="1.8" />
+      <module name="shardingsphere-db-discovery-mysql" target="1.8" />
+      <module name="shardingsphere-db-discovery-opengauss" target="1.8" />
+      <module name="shardingsphere-db-discovery-provider" target="1.8" />
+      <module name="shardingsphere-db-discovery-spring" target="1.8" />
+      <module name="shardingsphere-db-discovery-spring-boot-starter" target="1.8" />
+      <module name="shardingsphere-db-discovery-spring-namespace" target="1.8" />
+      <module name="shardingsphere-db-protocol" target="1.8" />
+      <module name="shardingsphere-db-protocol-core" target="1.8" />
+      <module name="shardingsphere-db-protocol-mysql" target="1.8" />
+      <module name="shardingsphere-db-protocol-opengauss" target="1.8" />
+      <module name="shardingsphere-db-protocol-postgresql" target="1.8" />
+      <module name="shardingsphere-distribution" target="1.8" />
+      <module name="shardingsphere-distsql" target="1.8" />
+      <module name="shardingsphere-distsql-parser" target="1.8" />
+      <module name="shardingsphere-distsql-statement" target="1.8" />
+      <module name="shardingsphere-encrypt" target="1.8" />
+      <module name="shardingsphere-encrypt-api" target="1.8" />
+      <module name="shardingsphere-encrypt-core" target="1.8" />
+      <module name="shardingsphere-encrypt-distsql" target="1.8" />
+      <module name="shardingsphere-encrypt-distsql-handler" target="1.8" />
+      <module name="shardingsphere-encrypt-distsql-parser" target="1.8" />
+      <module name="shardingsphere-encrypt-distsql-statement" target="1.8" />
+      <module name="shardingsphere-encrypt-spring" target="1.8" />
+      <module name="shardingsphere-encrypt-spring-boot-starter" target="1.8" />
+      <module name="shardingsphere-encrypt-spring-namespace" target="1.8" />
+      <module name="shardingsphere-features" target="1.8" />
+      <module name="shardingsphere-infra" target="1.8" />
+      <module name="shardingsphere-infra-binder" target="1.8" />
+      <module name="shardingsphere-infra-common" target="1.8" />
+      <module name="shardingsphere-infra-context" target="1.8" />
+      <module name="shardingsphere-infra-datetime" target="1.8" />
+      <module name="shardingsphere-infra-datetime-spi" target="1.8" />
+      <module name="shardingsphere-infra-datetime-type" target="1.8" />
+      <module name="shardingsphere-infra-executor" target="1.8" />
+      <module name="shardingsphere-infra-federation" target="1.8" />
+      <module name="shardingsphere-infra-federation-executor" target="1.8" />
+      <module name="shardingsphere-infra-federation-optimizer" target="1.8" />
+      <module name="shardingsphere-infra-merge" target="1.8" />
+      <module name="shardingsphere-infra-parser" target="1.8" />
+      <module name="shardingsphere-infra-rewrite" target="1.8" />
+      <module name="shardingsphere-infra-route" target="1.8" />
+      <module name="shardingsphere-integration-agent-test" target="1.8" />
+      <module name="shardingsphere-integration-agent-test-common" target="1.8" />
+      <module name="shardingsphere-integration-agent-test-jaeger" target="1.8" />
+      <module name="shardingsphere-integration-agent-test-metrics" target="1.8" />
+      <module name="shardingsphere-integration-agent-test-opentelemetry" target="1.8" />
+      <module name="shardingsphere-integration-agent-test-plugins" target="1.8" />
+      <module name="shardingsphere-integration-agent-test-zipkin" target="1.8" />
+      <module name="shardingsphere-integration-driver-test" target="1.8" />
+      <module name="shardingsphere-integration-scaling-test" target="1.8" />
+      <module name="shardingsphere-integration-scaling-test-mysql" target="1.8" />
+      <module name="shardingsphere-integration-test" target="1.8" />
+      <module name="shardingsphere-integration-test-fixture" target="1.8" />
+      <module name="shardingsphere-integration-test-suite" target="1.8" />
+      <module name="shardingsphere-jdbc" target="1.8" />
+      <module name="shardingsphere-jdbc-core" target="1.8" />
+      <module name="shardingsphere-jdbc-core-spring" target="1.8" />
+      <module name="shardingsphere-jdbc-core-spring-boot-starter" target="1.8" />
+      <module name="shardingsphere-jdbc-core-spring-namespace" target="1.8" />
+      <module name="shardingsphere-jdbc-distribution" target="1.8" />
+      <module name="shardingsphere-jdbc-spring" target="1.8" />
+      <module name="shardingsphere-jdbc-spring-boot-starter-infra" target="1.8" />
+      <module name="shardingsphere-jdbc-spring-infra" target="1.8" />
+      <module name="shardingsphere-jdbc-spring-namespace-infra" target="1.8" />
+      <module name="shardingsphere-jdbc-transaction-spring" target="1.8" />
+      <module name="shardingsphere-kernel" target="1.8" />
+      <module name="shardingsphere-memory-mode" target="1.8" />
+      <module name="shardingsphere-memory-mode-core" target="1.8" />
+      <module name="shardingsphere-mode" target="1.8" />
+      <module name="shardingsphere-mode-core" target="1.8" />
+      <module name="shardingsphere-mode-type" target="1.8" />
+      <module name="shardingsphere-optimize-test" target="1.8" />
+      <module name="shardingsphere-parser" target="1.8" />
+      <module name="shardingsphere-parser-api" target="1.8" />
+      <module name="shardingsphere-parser-core" target="1.8" />
+      <module name="shardingsphere-parser-spring" target="1.8" />
+      <module name="shardingsphere-parser-spring-boot-starter" target="1.8" />
+      <module name="shardingsphere-parser-spring-namespace" target="1.8" />
+      <module name="shardingsphere-parser-test" target="1.8" />
+      <module name="shardingsphere-pipeline-test" target="1.8" />
+      <module name="shardingsphere-proxy" target="1.8" />
+      <module name="shardingsphere-proxy-backend" target="1.8" />
+      <module name="shardingsphere-proxy-bootstrap" target="1.8" />
+      <module name="shardingsphere-proxy-distribution" target="1.8" />
+      <module name="shardingsphere-proxy-frontend" target="1.8" />
+      <module name="shardingsphere-proxy-frontend-core" target="1.8" />
+      <module name="shardingsphere-proxy-frontend-mysql" target="1.8" />
+      <module name="shardingsphere-proxy-frontend-opengauss" target="1.8" />
+      <module name="shardingsphere-proxy-frontend-postgresql" target="1.8" />
+      <module name="shardingsphere-proxy-frontend-reactive-core" target="1.8" />
+      <module name="shardingsphere-proxy-frontend-reactive-mysql" target="1.8" />
+      <module name="shardingsphere-proxy-frontend-reactive-spi" target="1.8" />
+      <module name="shardingsphere-proxy-frontend-spi" target="1.8" />
+      <module name="shardingsphere-readwrite-splitting" target="1.8" />
+      <module name="shardingsphere-readwrite-splitting-api" target="1.8" />
+      <module name="shardingsphere-readwrite-splitting-core" target="1.8" />
+      <module name="shardingsphere-readwrite-splitting-distsql" target="1.8" />
+      <module name="shardingsphere-readwrite-splitting-distsql-handler" target="1.8" />
+      <module name="shardingsphere-readwrite-splitting-distsql-parser" target="1.8" />
+      <module name="shardingsphere-readwrite-splitting-distsql-statement" target="1.8" />
+      <module name="shardingsphere-readwrite-splitting-spring" target="1.8" />
+      <module name="shardingsphere-readwrite-splitting-spring-boot-starter" target="1.8" />
+      <module name="shardingsphere-readwrite-splitting-spring-namespace" target="1.8" />
+      <module name="shardingsphere-rewrite-test" target="1.8" />
+      <module name="shardingsphere-schedule" target="1.8" />
+      <module name="shardingsphere-schedule-core" target="1.8" />
+      <module name="shardingsphere-shadow" target="1.8" />
+      <module name="shardingsphere-shadow-api" target="1.8" />
+      <module name="shardingsphere-shadow-core" target="1.8" />
+      <module name="shardingsphere-shadow-distsql" target="1.8" />
+      <module name="shardingsphere-shadow-distsql-handler" target="1.8" />
+      <module name="shardingsphere-shadow-distsql-parser" target="1.8" />
+      <module name="shardingsphere-shadow-distsql-statement" target="1.8" />
+      <module name="shardingsphere-shadow-spring" target="1.8" />
+      <module name="shardingsphere-shadow-spring-boot-starter" target="1.8" />
+      <module name="shardingsphere-shadow-spring-namespace" target="1.8" />
+      <module name="shardingsphere-sharding" target="1.8" />
+      <module name="shardingsphere-sharding-api" target="1.8" />
+      <module name="shardingsphere-sharding-core" target="1.8" />
+      <module name="shardingsphere-sharding-distsql" target="1.8" />
+      <module name="shardingsphere-sharding-distsql-handler" target="1.8" />
+      <module name="shardingsphere-sharding-distsql-parser" target="1.8" />
+      <module name="shardingsphere-sharding-distsql-statement" target="1.8" />
+      <module name="shardingsphere-sharding-spring" target="1.8" />
+      <module name="shardingsphere-sharding-spring-boot-starter" target="1.8" />
+      <module name="shardingsphere-sharding-spring-namespace" target="1.8" />
+      <module name="shardingsphere-single-table" target="1.8" />
+      <module name="shardingsphere-single-table-api" target="1.8" />
+      <module name="shardingsphere-single-table-core" target="1.8" />
+      <module name="shardingsphere-spi" target="1.8" />
+      <module name="shardingsphere-sql-parser" target="1.8" />
+      <module name="shardingsphere-sql-parser-dialect" target="1.8" />
+      <module name="shardingsphere-sql-parser-engine" target="1.8" />
+      <module name="shardingsphere-sql-parser-mysql" target="1.8" />
+      <module name="shardingsphere-sql-parser-opengauss" target="1.8" />
+      <module name="shardingsphere-sql-parser-oracle" target="1.8" />
+      <module name="shardingsphere-sql-parser-postgresql" target="1.8" />
+      <module name="shardingsphere-sql-parser-spi" target="1.8" />
+      <module name="shardingsphere-sql-parser-sql92" target="1.8" />
+      <module name="shardingsphere-sql-parser-sqlserver" target="1.8" />
+      <module name="shardingsphere-sql-parser-statement" target="1.8" />
+      <module name="shardingsphere-src-distribution" target="1.8" />
+      <module name="shardingsphere-standalone-mode" target="1.8" />
+      <module name="shardingsphere-standalone-mode-core" target="1.8" />
+      <module name="shardingsphere-standalone-mode-repository" target="1.8" />
+      <module name="shardingsphere-standalone-mode-repository-api" target="1.8" />
+      <module name="shardingsphere-standalone-mode-repository-file" target="1.8" />
+      <module name="shardingsphere-standalone-mode-repository-h2" target="1.8" />
+      <module name="shardingsphere-standalone-mode-repository-provider" target="1.8" />
+      <module name="shardingsphere-system-datetime" target="1.8" />
+      <module name="shardingsphere-test" target="1.8" />
+      <module name="shardingsphere-test-common" target="1.8" />
+      <module name="shardingsphere-traffic" target="1.8" />
+      <module name="shardingsphere-traffic-api" target="1.8" />
+      <module name="shardingsphere-traffic-core" target="1.8" />
+      <module name="shardingsphere-transaction" target="1.8" />
+      <module name="shardingsphere-transaction-api" target="1.8" />
+      <module name="shardingsphere-transaction-base" target="1.8" />
+      <module name="shardingsphere-transaction-base-seata-at" target="1.8" />
+      <module name="shardingsphere-transaction-core" target="1.8" />
+      <module name="shardingsphere-transaction-type" target="1.8" />
+      <module name="shardingsphere-transaction-xa" target="1.8" />
+      <module name="shardingsphere-transaction-xa-atomikos" target="1.8" />
+      <module name="shardingsphere-transaction-xa-bitronix" target="1.8" />
+      <module name="shardingsphere-transaction-xa-core" target="1.8" />
+      <module name="shardingsphere-transaction-xa-narayana" target="1.8" />
+      <module name="shardingsphere-transaction-xa-provider" target="1.8" />
+      <module name="shardingsphere-transaction-xa-spi" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
